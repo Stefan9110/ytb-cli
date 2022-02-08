@@ -1,3 +1,4 @@
+# Python library requirements
 # Install these requirements using pip install -r requirements.txt
-youtube-search
-yt-dlp
+youtube-search>=2.1.0
+yt-dlp>=2022.2.4
