@@ -1,2 +1,3 @@
 # Exclude Pycharm .idea directory
 .idea
+*/__pycache__
